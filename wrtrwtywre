@@ -1,0 +1,167 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia ALT",SUPERSPORT
+http://77.247.108.32:8080/F14741/cfe49823/146068
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia ALT",SUPERSPORT 2
+http://77.247.108.32:8080/F14741/cfe49823/157556
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia ALT",SUPERSPORT 3
+http://77.247.108.32:8080/F14741/cfe49823/157557
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia ALT",SUPERSPORT 4
+http://77.247.108.32:8080/F14741/cfe49823/157558
+
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia ALT",SUPERSPORT
+http://77.247.108.32:8080/F14741/cfe49823/247415
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia ALT",SUPERSPORT 2
+http://77.247.108.32:8080/F14741/cfe49823/247417
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia ALT",SUPERSPORT 3
+http://77.247.108.32:8080/F14741/cfe49823/247418
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia ALT",SUPERSPORT 4
+http://77.247.108.32:8080/F14741/cfe49823/247419
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia ALT",SUPERSPORT
+http://23.237.61.20:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia ALT",SUPERSPORT 2
+http://23.237.61.20:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia ALT",SUPERSPORT 3
+http://23.237.61.20:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia ALT",SUPERSPORT 4
+http://23.237.61.20:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia ALT",SUPERSPORT
+http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia ALT",SUPERSPORT 2
+http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia ALT",SUPERSPORT 3
+http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia ALT",SUPERSPORT 4
+http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia ALT",SUPERSPORT
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia ALT",SUPERSPORT 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia ALT",SUPERSPORT 4
+http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://50.7.161.82:8277/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://50.7.161.82:8277/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://50.7.161.82:8277/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://50.7.161.82:8277/streams/d/Assp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://3.0.20.58:8000/play/ASSP1/index.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://3.0.20.58:8000/play/ASSP2/index.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://3.0.20.58:8000/play/ASSP3/index.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://3.0.20.58:8000/play/ASSP4/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://198.16.106.61:8277/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://198.16.106.61:8277/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://198.16.106.61:8277/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://198.16.106.61:8277/streams/d/Assp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://23.237.61.20:61980/myplay/mlsp_601/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://23.237.61.20:61980/myplay/mlsp_602/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://23.237.61.20:61980/myplay/mlsp_603/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://23.237.61.20:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://77.247.108.32:8080/F14741/cfe49823/146068
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://77.247.108.32:8080/F14741/cfe49823/157556
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://77.247.108.32:8080/F14741/cfe49823/157557
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://77.247.108.32:8080/F14741/cfe49823/157558
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://1.crtv1.ml/hstv/crtv.php?id=1070
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://1.crtv1.ml/hstv/crtv.php?id=1071
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://1.crtv1.ml/hstv/crtv.php?id=1072
+
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://1.crtv1.ml/hstv/crtv.php?id=1074
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia Xtra",SUPERSPORT 4
+http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia Xtra",SUPERSPORT
+http://185.180.221.194:8277/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia Xtra",SUPERSPORT 2
+http://185.180.221.194:8277/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia Xtra",SUPERSPORT 3
+http://185.180.221.194:8277/streams/d/Assp3/playlist.m3u8
