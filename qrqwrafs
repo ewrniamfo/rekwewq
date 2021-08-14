@@ -2290,6 +2290,23 @@ http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 
 
+#EXTINF:-1 tvg-id="" group-title=“PREMIUM_SPORTS” tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD 
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+
+#EXTINF:-1 tvg-id="" group-title=“PREMIUM_SPORTS” tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
+#EXTINF:-1 tvg-id="" group-title=“PREMIUM_SPORTS” tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+
+#EXTINF:-1 tvg-id="" group-title=“PREMIUM_SPORTS” tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+
+
 #EXTINF: -1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title=“PREMIUM_SPORTS”, Arena (A)
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/147
 
