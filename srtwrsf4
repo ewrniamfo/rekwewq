@@ -1,0 +1,299 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="101" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA PRO",TV1
+http://50.7.17.176:61980/myplay/c_58001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="102" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA PRO",TV2
+http://50.7.17.176:61980/myplay/c_58002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="103" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MALAYSIA PRO",TV3
+http://50.7.17.176:61980/myplay/c_58003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="MALAYSIA PRO",TV6
+http://50.7.17.176:61980/myplay/c_58047/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="147" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="MALAYSIA PRO",NTV 7 KPM
+http://50.7.17.176:61980/myplay/c_58005/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="148" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MALAYSIA PRO",8TV
+http://50.7.17.176:61980/myplay/c_58006/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="149" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MALAYSIA PRO",TV9
+http://50.7.17.176:61980/myplay/c_58007/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MALAYSIA PRO",DRAMA SANGAT
+http://50.7.17.176:61980/myplay/c_58011/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="114" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="MALAYSIA PRO",ALHIJRAH
+http://50.7.17.176:61980/myplay/c_58008/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="146" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MALAYSIA PRO",OKEY
+http://50.7.17.176:61980/myplay/c_58012/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="306" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="MALAYSIA PRO",AEC
+http://50.7.17.176:61980/myplay/c_58025/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MALAYSIA PRO",CERIA
+http://50.7.17.176:61980/myplay/c_58024/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="105" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="MALAYSIA PRO",PRIMA
+http://50.7.17.176:61980/myplay/c_58017/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.17.176:61980/myplay/ml2_895/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MALAYSIA PRO",RIA
+http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.17.176:61980/myplay/ml2_890/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="106" group-title="MALAYSIA PRO" tvg-logo="https://i.postimg.cc/437WcNFK/Astro-Oasis.png",OASIS
+http://50.7.17.176:61980/myplay/c_58019/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="MALAYSIA PRO" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",CITRA
+http://50.7.17.176:61980/myplay/c_58035/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.17.176:61980/myplay/ml2_893/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MALAYSIA PRO",WARNA
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+http://50.7.17.176:61980/myplay/ml2_891/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 xmltv-id="201" tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" tvg-chno="8" channel-id="8" group-title="MALAYSIA PRO",VAANAVIL
+http://50.7.17.176:61980/myplay/c_58022/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="308" group-title="MALAYSIA PRO" tvg-logo="https://i.postimg.cc/50NSfr7H/Astro-Quan-Jia.png",QUAN JIA HD
+http://50.7.17.176:61980/myplay/ml2_885/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="307" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
+http://50.7.17.176:61980/myplay/c_58027/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="304" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/LTsKped.png",XIAO TAI YANG
+http://50.7.17.176:61980/myplay/c_58021/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="311" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/aw4yTIL.png",AOD
+http://50.7.17.176:61980/myplay/ml2_882/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="310" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/aPpmN9s.png",TVB JADE
+http://50.7.17.176:61980/myplay/ml2_884/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="333" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/y6p2lm0.png",HUA HEE DAI
+http://50.7.17.176:61980/myplay/c_58026/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="300" group-title="MALAYSIA PRO" tvg-logo="https://www.digitaltvnews.net/wp-content/uploads/logos/iqiyicom.png",iQIYI
+http://50.7.17.176:61980/myplay/ml2_886/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="319" group-title="MALAYSIA PRO" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/xinghe.png",TVB XING HE
+http://50.7.17.176:61980/myplay/c_58031/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID=Xinnhe.my group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/O36MJY6.png",TVB CLASSIC
+http://50.7.17.176:61980/myplay/c_58029/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID=Xinnhe.my group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/CQOgYhh.jpg",TVB ENTERTAINMENT NEWS
+http://50.7.17.176:61980/myplay/c_58032/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID=Xinnhe.my group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/nyi529A.png",TVBS ASIA
+http://50.7.17.176:61980/myplay/c_58033/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/aura.png" group-title="MALAYSIA PRO",AURA
+http://50.7.17.176:61980/myplay/c_58036/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="112" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/rania.png" group-title="MALAYSIA PRO",RANIA
+http://50.7.17.176:61980/myplay/c_58034/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/zN35gsY.png" group-title="MALAYSIA PRO",AWESOME TV
+http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="109" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA PRO",NAURA
+http://50.7.17.176:61980/myplay/c_58042/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="111" group-title="MALAYSIA PRO" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",GO SHOP
+http://50.7.17.176:61980/myplay/c_58048/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="MALAYSIA PRO",SURIA
+http://50.7.17.176:61980/myplay/c_10004/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="MALAYSIA PRO",CHANNEL 5
+http://50.7.17.176:61980/myplay/c_10001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="MALAYSIA PRO",VASANTHAM
+http://50.7.17.176:61980/myplay/c_10005/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="MALAYSIA PRO",CHANNEL 8
+http://50.7.17.176:61980/myplay/c_10002/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="MALAYSIA PRO",CHANNEL U
+http://50.7.17.176:61980/myplay/c_10003/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title="MALAYSIA PRO",COLORS
+http://50.7.17.176:61980/myplay/c_58041/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="251" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/bollyone.png" group-title="MALAYSIA PRO",BOLLYONE HD
+http://50.7.17.176:61980/myplay/c_58043/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-ID="CHN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="MALAYSIA PRO",BERITA RTM
+http://50.7.17.176:61980/myplay/c_58010/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="501" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MALAYSIA PRO",AWANI
+http://50.7.17.176:61980/myplay/c_58018/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=MzkwMTYxNjktYTgzNS0zZWFlLWJjODEtM2Q5YjhkMGY1ODJm
+#EXTINF:-1 tvg-id="502" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="MALAYSIA PRO",BERNAMA
+http://50.7.17.176:61980/myplay/c_58009/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="316" tvg-logo="https://i.imgur.com/cbDuLzQ.png" group-title="MALAYSIA PRO",CTI ASIA
+#http://50.7.17.176:61980/myplay/ml2_883/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="612" tvg-logo="https://i.imgur.com/r5eJ26W.jpg" group-title="MALAYSIA PRO",TA-DAA!
+http://50.7.17.176:61980/myplay/c_58046/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="708" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/foodnetwork.png" group-title="MALAYSIA PRO",FOOD NETWORK
+http://50.7.17.176:61980/myplay/c_58039/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-ID="394" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="MALAYSIA PRO",OH!K
+http://50.7.17.176:61980/myplay/c_58045/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="404" tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png" group-title="MALAYSIA PRO",BOO
+http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-name="305" tvg-id="309" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="MALAYSIA PRO",CELESTIAL MOVIES
+http://50.7.17.176:61980/myplay/c_58028/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-name="305" tvg-id="321" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial%20Classic%20Movies.png" group-title="MALAYSIA PRO",CELESTIAL CLASSIC MOVIES
+http://50.7.17.176:61980/myplay/c_58030/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="515" group-title="MALAYSIA PRO" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+http://50.7.17.176:61980/myplay/c_10007/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA PRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
+http://50.7.17.176:61980/myplay/c_58013/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="801" group-title="MALAYSIA PRO" tvg-logo="https://i.imgur.com/HlB71nE.jpg",ARENA HD
+http://50.7.17.176:61980/myplay/c_58015/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="811" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="MALAYSIA PRO",SUPERSPORT
+http://gcs2.xyz:80/anh/123/2599208
+
+#EXTINF:-1 tvg-id="812" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="MALAYSIA PRO",SUPERSPORT 2
+http://gcs2.xyz:80/anh/123/2599210
+
+#EXTINF:-1 tvg-id="813" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="MALAYSIA PRO",SUPERSPORT 3
+http://gcs2.xyz:80/anh/123/2599211
+
+#EXTINF:-1 tvg-id="814" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="MALAYSIA PRO",SUPERSPORT 4
+http://gcs2.xyz:80/anh/123/2599212
+
+#EXTINF:-1 tvg-id="824" tvg-logo="https://i.imgur.com/X7h09MM.png" group-title="MALAYSIA PRO",CRICKET
+http://50.7.17.176:61980/myplay/mlsp_605/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="822" tvg-logo="https://i.imgur.com/ejuWKh7.png" group-title="MALAYSIA PRO",GOLF
+http://50.7.17.176:61980/myplay/mlsp_606/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="819" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinmax.png" group-title="MALAYSIA PRO",BEIN SPORTS MAX
+http://50.7.17.176:61980/myplay/c_58044/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="821" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="MALAYSIA PRO",WWE NETWORK
+http://50.7.17.176:61980/myplay/c_58016/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzNjUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOGQwMmFmN2FfNDllNF80YjMxXzk3NjRfZDgxMWQwMThjNWU4IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=xcQ0XL%2fhT30z0Ag4Yv0wAqF0SPs%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="392" tvg-chno="100" tvg-logo="https://i.imgur.com/AS2S7EU.jpg",KBS WORLD
+https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjU2MjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWI5OTg4OTRfZjE4OF80ZjY0Xzk4MWVfZjYzNzQ0Y2JlZmIxIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=YSMeYPkqfhirfQ9rpQ25dYr0Uyg%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="395" tvg-chno="100" tvg-logo="https://i.imgur.com/I41Co2Q.jpg",TVN
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNjYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWY5OWZmYTJfZDI3YV80Y2ZiX2EwNWJfODNiOTFkYjg0NmRmIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=eTdUzq6%2fcERjhxZ9XnoHgxvQENo%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="801" tvg-chno="100" tvg-logo="https://i.imgur.com/6wLlIsi.jpg",ARENA
+https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM0MTAzMTIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNGZjMTEyZjlfMmE5Zl80ZWI5Xzg5YTFfYmQ3ODBkM2UzZGU2IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=1Y%2bkkY8JYoI6PXceZeoUrExy5Jg%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="501" tvg-chno="100" tvg-logo="https://i.imgur.com/8XfUSDx.jpg",AWANI
+https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=AOz6gOokmBZLmbfNQj01CC1xlck%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="CHN" tvg-chno="100" tvg-logo="https://i.imgur.com/3sk3WRj.jpg",EGG NETWORK
+https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYjNjY2Y3M2FfN2E2Nl80Zjg1X2FlNzRfMTEzNjdmZmIyZmE3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=nsNOrpZlFZJ2BUtPqw4Vt4vjqgw%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="811" tvg-chno="100" tvg-logo="https://i.imgur.com/dKnKlpV.jpg",SUPERSPORT
+https://linear01-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUyMzIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOGYxZGEzOTlfMzI1Ml80N2VjX2E2YWNfZGQ3YmFmYjk1ZmEyIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=HFo4EhT09ZJmVwJVa7Uq%2f0JGPQ4%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="812" tvg-chno="100" tvg-logo="https://i.imgur.com/FJx0YBw.jpg",SUPERSPORT 2
+https://linear01-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMDIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMGQ2ZDJhMWFfYzhkMV80ZTE5X2IxNzRfNTU2NTA3NzBjZDk5IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=aaRnJlLJT1D5jecB494s1XrMHXQ%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="813" tvg-chno="100" tvg-logo="https://i.imgur.com/MOcOgIL.jpg",SUPERSPORT 3
+https://linear01-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMDQiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMWI1ZTUxNTZfMzhkZV80MjQzX2I2YmFfNDk4NDNkMGJlNzYzIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=0KqjgAhZfmLHkqzsDoSWfhlAnM8%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="814" tvg-chno="100" tvg-logo="https://i.imgur.com/qeIyRVX.jpg",SUPERSPORT 4
+https://linear02-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMDYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiZTU0NmIyZThfYWRmNV80ZTg3X2I3YmJfNmMwY2Q2Y2NjMmRhIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=PTABeii37ViwS8wOeltmmXNu31I%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="815" tvg-chno="100" tvg-logo="https://i.imgur.com/XTmS7ZM.jpg",FOX SPORTS
+https://linear02-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMjEiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYTU3NzE4NGVfZDZjNl80NTYwX2JlYjhfN2M5NmVlNzhmN2I4IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=hIt30s4CZ2c3Gg4PeFd0PHzCfms%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="816" tvg-chno="100" tvg-logo="https://i.imgur.com/JBSMvA6.jpg",FOX SPORTS 2
+https://linear02-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMjMiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNWNiMDVkMTRfYzhkZF80NTYzX2I5NTZfZTM3ZDBhMGYxMTc3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=hr00LtcYji5qKgZ3mdwNASts4%2bU%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="817" tvg-chno="100" tvg-logo="https://i.imgur.com/B2erPJX.jpg",FOX SPORTS 3
+https://linear02-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzMjUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOWZiZmZkMWZfZjIxM180MDE2XzlhNWFfMTE0MmJjZjRkZGFkIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=TI7XoAg8fSZrnIQNnLhy6fQ9L3U%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="818" tvg-chno="100" tvg-logo="https://i.imgur.com/e814Y6I.jpg",BEIN SPORTS
+https://linear02-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzNDQiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiZTU1ODRjZmZfZDYxNV80OTEzXzk3YjhfY2RlZDVlNjc5YzE5IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=rMQMrQbpYiqYQHKNNHEu5jQOT7s%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="819" tvg-chno="100" tvg-logo="https://i.imgur.com/cDeXdqI.jpg",BEIN SPORTS MAX
+https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTU3MFFoaEdHc2RZWnBoVzF1Z2FMS3NGSW1xVWUxOUFJeDAxYnZKWTFBNDdUMUxDMC1Ya05nX3ZfMGliRXNMcVk0Mk9ROUpJMVN5amNGdkdPN0lJOFM4Nnk5TnI1YTB0SDJKTHdUXzRpTElBaVdIeTl2WGFNQzVaTS1UQnFNTUc1eFRhMlJpMGJDbFlQTkhnOVVxcFJrbC1rLUtzbXFIUUxwcERKY2VHaVR6VTZVenhmSG5BTzJjVVlia1gwRDhZam9hS2l4ejBoaG1NTzYzYkRpbGRHY3N1Ul9kREFmVUhYUWFIYmw3WXZpcXVxaGRZV1FRaDRKckhnd0c5bWZKSDNWM2dDbFVOZWROdXdSQ3RPdTJweFVlZHBlbEUwck1FcnlGRVVfWlRQUDZGbHVRaGVEakVRNHVmQnF5QUt5Y0F6blRmREhUbEQ2NGRsZG5CQzdUaE1QMXhMMFI5TEk3OTRFRDVIU3FKTGJjeEl4bk50X3RZTi11S1E3cjZZVVAxUWVfWGYwYTcyU2Fib2JublZNV2FfZDlmYVhMYnNVQUlDQjM5M1FEcUFZQzdBeVpneG80ZkhCMlVfd0VwX2NUM3hXZHVsYzJWckZhN1Z2ckdmWFRhZHNIT2kxWjB4Unl3LTNQdTBiSGNaY0duZ0dJT1ZzZ2hYWEswLURSQUFVVkM1ZVRrOWp5NmphY0lERUZENFZqSXNCJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUzNjMiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYTVhMWE1OWRfMTBmZl80YjRkXzhjNGFfMjFlYWFiNDIzZDhkIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk1NzBRaGhHR3NkWVpwaFcxdWdhTEtzRkltcVVlMTlBSXgwMWJ2SlkxQTQ3VDFMQzAtWGtOZ192XzBpYkVzTHFZNDJPUTlKSTFTeWpjRnZHTzdJSThTODZ5OU5yNWEwdEgySkx3VF80aUxJQWlXSHk5dlhhTUM1Wk0tVEJxTU1HNXhUYTJSaTBiQ2xZUE5IZzlVcXBSa2wtay1Lc21xSFFMcHBESmNlR2lUelU2VXp4ZkhuQU8yY1VZYmtYMEQ4WWpvYUtpeHowaGhtTU82M2JEaWxkR2NzdVJfZERBZlVIWFFhSGJsN1l2aXF1cWhkWVdRUWg0SnJIZ3dHOW1mSkgzVjNnQ2xVTmVkTnV3UkN0T3UycHhVZWRwZWxFMHJNRXJ5RkVVX1pUUFA2Rmx1UWhlRGpFUTR1ZkJxeUFLeWNBem5UZkRIVGxENjRkbGRuQkM3VGhNUDF4TDBSOUxJNzk0RUQ1SFNxSkxiY3hJeG5OdF90WU4tdUtRN3I2WVVQMVFlX1hmMGE3MlNhYm9ibm5WTVdhX2Q5ZmFYTGJzVUFJQ0IzOTNRRHFBWUM3QXlaZ3hvNGZIQjJVX3dFcF9jVDN4V2R1bGMyVnJGYTdWdnJHZlhUYWRzSE9pMVoweFJ5dy0zUHUwYkhjWmNHbmdHSU9Wc2doWFhLMC1EUkFBVVZDNWVUazlqeTZqYWNJREVGRDRWaklzQiIsInVkaWQiOiIyZTEyZWQyZS1hOGZmLTQ3ZDEtODJjYi0zYzU0OThiYmNjZGRfd2ViX21vaGQuZmF1emkubUBnbWFpbC5jb21fV0VCLWQyYWYxYjMwLTk1NzktY2U1MS00NmFlLTZmMGRiZDI3MDFiMSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=n89JFIcecQqWaaWkwVVLY%2fzMuqc%3d
+#EXTINF:-1 group-title="MALAYSIA PRO" tvg-id="820" tvg-chno="100" tvg-logo="https://i.imgur.com/scAf8OM.jpg",EUROSPORT
